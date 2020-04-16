@@ -1,35 +1,23 @@
-ÊµÑéÆ÷²Ä:
-	Ì½Ë÷ÕßSTM32F4¿ª·¢°å
+å®žéªŒå™¨æ:
+	æŽ¢ç´¢è€…STM32F4å¼€å‘æ¿
 	
-ÊµÑéÄ¿µÄ:
-	Ñ§Ï°UCOSIIµÄÈÎÎñµ÷¶È,³õ²½ÈÏÊ¶UCOSII
+å®žéªŒç›®çš„:
+	å­¦ä¹ UCOSIIçš„ä»»åŠ¡è°ƒåº¦,åˆæ­¥è®¤è¯†UCOSII
 	
-Ó²¼þ×ÊÔ´:
-	1,DS0(Á¬½ÓÔÚPF9)
-	2,DS1(Á¬½ÓÔÚPF10) 
+ç¡¬ä»¶èµ„æº:
+	1,DS0(è¿žæŽ¥åœ¨PF9)
+	2,DS1(è¿žæŽ¥åœ¨PF10) 
 	
-ÊµÑéÏÖÏó:
-	±¾ÕÂÎÒÃÇÔÚUCOSIIÀïÃæ´´½¨3¸öÈÎÎñ£º¿ªÊ¼ÈÎÎñ¡¢LED0ÈÎÎñºÍLED1ÈÎÎñ£¬¿ªÊ¼ÈÎÎñÓÃÓÚ´´½¨ÆäËû£¨LED0ºÍLED1£©ÈÎ
-	Îñ£¬Ö®ºó¹ÒÆð£»LED0ÈÎÎñÓÃÓÚ¿ØÖÆDS0µÄÁÁÃð£¬DS0Ã¿ÃëÖÓÁÁ80ms£»LED1ÈÎÎñÓÃÓÚ¿ØÖÆDS1µÄÁÁÃð£¬DS1ÁÁ300ms£¬Ãð
-	300ms£¬ÒÀ´ÎÑ­»·¡£
+å®žéªŒçŽ°è±¡:
+	æœ¬ç« æˆ‘ä»¬åœ¨UCOSIIé‡Œé¢åˆ›å»º3ä¸ªä»»åŠ¡ï¼šå¼€å§‹ä»»åŠ¡ã€LED0ä»»åŠ¡å’ŒLED1ä»»åŠ¡ï¼Œå¼€å§‹ä»»åŠ¡ç”¨äºŽåˆ›å»ºå…¶ä»–ï¼ˆLED0å’ŒLED1ï¼‰ä»»
+	åŠ¡ï¼Œä¹‹åŽæŒ‚èµ·ï¼›LED0ä»»åŠ¡ç”¨äºŽæŽ§åˆ¶DS0çš„äº®ç­ï¼ŒDS0æ¯ç§’é’Ÿäº®80msï¼›LED1ä»»åŠ¡ç”¨äºŽæŽ§åˆ¶DS1çš„äº®ç­ï¼ŒDS1äº®300msï¼Œç­
+	300msï¼Œä¾æ¬¡å¾ªçŽ¯ã€‚
 
-×¢ÒâÊÂÏî: 
-	1,±¾ÊµÑé¸Ä×ÔÅÜÂíµÆÊµÑé¡£
-	2,±¾ÊµÑéÊ¹ÓÃucosii°æ±¾ÎªV2.91¡£
+æ³¨æ„äº‹é¡¹: 
+	1,æœ¬å®žéªŒæ”¹è‡ªè·‘é©¬ç¯å®žéªŒã€‚
+	2,æœ¬å®žéªŒä½¿ç”¨ucosiiç‰ˆæœ¬ä¸ºV2.91ã€‚
 		
 		  
-					ÕýµãÔ­×Ó@ALIENTEK
-					2014-10-24
-					¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾
-					µç»°£º020-38271790
-					´«Õæ£º020-36773971
-					¹ºÂò£ºhttp://shop62103354.taobao.com
-					http://shop62057469.taobao.com
-					¹«Ë¾ÍøÕ¾£ºwww.alientek.com
-					¼¼ÊõÂÛÌ³£ºwww.openedv.com
-
-
-
 
 
 
